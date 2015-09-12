@@ -9,6 +9,8 @@ Multiple mini expanders can be daisychained from one Turing sequencer to give me
 Designed in one day while on holiday in Cornwall.   
 
 Status:  
+September 2015: First board validated idea, contained embarrassing errors. Those fixed, second prototypes ordered.  
 August 2015: Awaiting first prototypes  
+
 
 ![First image mockups](https://raw.githubusercontent.com/TomWhitwell/Turing-Mini-Voltage-Expander/master/Collateral/panels.jpg)
