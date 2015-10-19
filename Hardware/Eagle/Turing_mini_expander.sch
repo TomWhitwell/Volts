@@ -2726,7 +2726,7 @@ NS Package M08A</description>
 <part name="VR4" library="MusicThingModular" deviceset="9MM_SNAP-IN_POT_CHASSIS" device=""/>
 <part name="VR5" library="MusicThingModular" deviceset="9MM_SNAP-IN_POT_CHASSIS" device=""/>
 <part name="VR6" library="MusicThingModular" deviceset="9MM_SNAP-IN_POT_CHASSIS" device=""/>
-<part name="R1" library="MusicThingModular" deviceset="RESISTOR" device="7MM" value="10k"/>
+<part name="R1" library="MusicThingModular" deviceset="RESISTOR" device="7MM" value="2k"/>
 <part name="R2" library="MusicThingModular" deviceset="RESISTOR" device="7MM" value="10k"/>
 <part name="R3" library="MusicThingModular" deviceset="RESISTOR" device="7MM" value="10k"/>
 <part name="R4" library="MusicThingModular" deviceset="RESISTOR" device="7MM" value="10k"/>
