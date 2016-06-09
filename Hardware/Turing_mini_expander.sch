@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.2.0">
+<eagle version="7.4.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -2700,11 +2700,11 @@ NS Package M08A</description>
 <variantdefs>
 </variantdefs>
 <classes>
-<class number="0" name="default" width="0.254" drill="0">
+<class number="0" name="default" width="0" drill="0">
 </class>
-<class number="1" name="power" width="0.4064" drill="0">
+<class number="1" name="power" width="0" drill="0">
 </class>
-<class number="2" name="ground" width="0.4064" drill="0">
+<class number="2" name="ground" width="0" drill="0">
 </class>
 </classes>
 <parts>
@@ -2858,9 +2858,9 @@ NS Package M08A</description>
 <wire x1="238.76" y1="33.02" x2="238.76" y2="66.04" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="VR2" gate="G$1" pin="E"/>
-<wire x1="83.82" y1="157.48" x2="43.18" y2="157.48" width="0.1524" layer="91"/>
-<label x="43.18" y="157.48" size="1.778" layer="95" rot="R180" xref="yes"/>
+<pinref part="VR6" gate="G$1" pin="E"/>
+<wire x1="63.5" y1="40.64" x2="83.82" y2="40.64" width="0.1524" layer="91"/>
+<label x="63.5" y="40.64" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="SUM" class="0">
@@ -2898,9 +2898,9 @@ NS Package M08A</description>
 <wire x1="223.52" y1="33.02" x2="223.52" y2="66.04" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="VR3" gate="G$1" pin="E"/>
-<wire x1="83.82" y1="127" x2="43.18" y2="127" width="0.1524" layer="91"/>
-<label x="43.18" y="127" size="1.778" layer="95" rot="R180" xref="yes"/>
+<pinref part="VR5" gate="G$1" pin="E"/>
+<wire x1="63.5" y1="71.12" x2="83.82" y2="71.12" width="0.1524" layer="91"/>
+<label x="63.5" y="71.12" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="N$2" class="0">
@@ -2928,8 +2928,8 @@ NS Package M08A</description>
 </segment>
 <segment>
 <pinref part="VR4" gate="G$1" pin="E"/>
-<wire x1="83.82" y1="99.06" x2="43.18" y2="99.06" width="0.1524" layer="91"/>
-<label x="43.18" y="99.06" size="1.778" layer="95" rot="R180" xref="yes"/>
+<wire x1="63.5" y1="99.06" x2="83.82" y2="99.06" width="0.1524" layer="91"/>
+<label x="63.5" y="99.06" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="N$19" class="0">
@@ -2949,9 +2949,9 @@ NS Package M08A</description>
 <wire x1="223.52" y1="35.56" x2="223.52" y2="68.58" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="VR5" gate="G$1" pin="E"/>
-<wire x1="83.82" y1="71.12" x2="43.18" y2="71.12" width="0.1524" layer="91"/>
-<label x="43.18" y="71.12" size="1.778" layer="95" rot="R180" xref="yes"/>
+<pinref part="VR3" gate="G$1" pin="E"/>
+<wire x1="63.5" y1="127" x2="83.82" y2="127" width="0.1524" layer="91"/>
+<label x="63.5" y="127" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="GATE5" class="0">
@@ -2964,9 +2964,9 @@ NS Package M08A</description>
 <wire x1="238.76" y1="38.1" x2="238.76" y2="71.12" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="VR6" gate="G$1" pin="E"/>
-<wire x1="83.82" y1="40.64" x2="43.18" y2="40.64" width="0.1524" layer="91"/>
-<label x="43.18" y="40.64" size="1.778" layer="95" rot="R180" xref="yes"/>
+<pinref part="VR2" gate="G$1" pin="E"/>
+<wire x1="66.04" y1="157.48" x2="83.82" y2="157.48" width="0.1524" layer="91"/>
+<label x="63.5" y="157.48" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="GATE6" class="0">
