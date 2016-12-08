@@ -15,6 +15,7 @@ BOM:
 - 8 x 10k Resistors 
 - 1 x 1k Resistor 
 - 1 x TL072 Op Amp 
+- 2 x 100n Ceramic Capacitors 
 - 1 x [Thonkiconn Socket](https://www.thonk.co.uk/shop/thonkiconn-3-5mm-jack-sockets-x50/)  
 - 2 x 16 Pin Headers 2x8 (for example 649-67997-216HLF from Mouser) 
 
