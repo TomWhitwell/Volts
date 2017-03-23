@@ -17,7 +17,9 @@ BOM:
 - 1 x TL072 Op Amp 
 - 2 x 100n Ceramic Capacitors 
 - 1 x [Thonkiconn Socket](https://www.thonk.co.uk/shop/thonkiconn-3-5mm-jack-sockets-x50/)  
-- 2 x 16 Pin Headers 2x8 (for example 649-67997-216HLF from Mouser) 
+- 2 x 16 Pin Headers 2x8 (for example 649-67997-216HLF from Mouser)
+- 1 x Ribbon cable
+- 5 x Knobs
 
 This board should be built with pots that bolt to the panel, like the Alphas above. Plastic shaft pots (or the little ones with an indicator line on the shaft) will work fine, but the only support between the board and the panel will be the nut on the socket. There is a mounting hole on the PCB, so you can screw an 11m hex spacer to that, and epoxy the other end to the panel, if you want to use those pots. 
 
